@@ -1,0 +1,156 @@
+<Festivales>
+   <Festival>
+      <Comarca>SOBRARBE</Comarca>
+      <Localidad>Aínsa</Localidad>
+      <Nombre>Festival Castillo de Aínsa</Nombre>
+      <Descripcion>El castillo de Aínsa, del siglo XI, es el escenario de esta cita musical que presenta las principales tendencias de la música europea y en cuya programación se incluyen numerosas actividades culturales paralelas. El festival tienen lugar durante el mes de julio</Descripcion>
+      <Latitud>42.41529</Latitud>
+      <Longitud>0.147091</Longitud>
+      <UTMx xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+      <UTMy xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+      <URL>http://gps.huescalamagia.es/es/punto/festival-castillo-lainsa</URL>
+   </Festival>
+   <Festival>
+      <Comarca>LA RIBAGORZA</Comarca>
+      <Localidad>Anciles</Localidad>
+      <Nombre>Festival Anciles Directo</Nombre>
+      <Descripcion>Música, teatro, animación infantil, talleres... todo cabe en este Festival, apto para todos los públicos, que se celebra desde hace seis años en la localidad de Anciles.</Descripcion>
+      <Latitud xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+      <Longitud xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+      <UTMx>295932.0</UTMx>
+      <UTMy>4718857.0</UTMy>
+      <URL>http://gps.huescalamagia.es/es/punto/festival-anciles-directo</URL>
+   </Festival>
+   <Festival>
+      <Comarca>SOMONTANO DE BARBASTRO</Comarca>
+      <Localidad>Barbastro </Localidad>
+      <Nombre>Festival Vino del Somontano</Nombre>
+      <Descripcion>Festival de música que reúne en Barbastro a destacados artistas de la escena pop y la música latina. Entorno a esta cita musical se celebran numerosas actividades paralelas como la Muestra de Gastronomía y de los Vinos de la Denominación de Origen del Somontano.</Descripcion>
+      <Latitud>42.03333</Latitud>
+      <Longitud>0.119166</Longitud>
+      <UTMx xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+      <UTMy xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+      <URL>http://gps.huescalamagia.es/es/punto/festival-vino-del-somontano</URL>
+   </Festival>
+   <Festival>
+      <Comarca>LA JACETANIA</Comarca>
+      <Localidad>Canfranc </Localidad>
+      <Nombre>Festival Internacional de Música Pirineos Classic</Nombre>
+      <Descripcion>El certamen, que se celebra cada verano en varios municipios de la Comarca de la Jacetania, acoge además el Festival Internacional de Jazz, en el que participirán algunas de las figuras más importantes del jazz nacional e internacional. </Descripcion>
+      <Latitud>42.7515</Latitud>
+      <Longitud>-0.51528</Longitud>
+      <UTMx xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+      <UTMy xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+      <URL>http://gps.huescalamagia.es/es/punto/festival-internacional-de-musica-pirineos-classic</URL>
+   </Festival>
+   <Festival>
+      <Comarca>BAJO CINCA</Comarca>
+      <Localidad>Fraga</Localidad>
+      <Nombre>Monegros Desert Festival</Nombre>
+      <Descripcion>Festival punto de referencia en el panorama nacional e internacional de eventos relacionados con la música electrónica de calidad, entendida en un sentido muy amplio. Se celebra en la localidad de Fraga. </Descripcion>
+      <Latitud>41.3132</Latitud>
+      <Longitud>0.7298235</Longitud>
+      <UTMx xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+      <UTMy xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+      <URL>http://gps.huescalamagia.es/es/punto/monegros-desert-festival</URL>
+   </Festival>
+   <Festival>
+      <Comarca>LA RIBAGORZA</Comarca>
+      <Localidad>Graus</Localidad>
+      <Nombre>Festival de la Ribagorza `Clásicos en la Frontera´</Nombre>
+      <Descripcion>El certamen acoge un total de 18 conciertos de música clásica y antigua, que entre los meses de julio y agosto, recorren los edificios más emblemáticos de ocho municipios ribagorzanos. </Descripcion>
+      <Latitud xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+      <Longitud xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+      <UTMx>775765.3</UTMx>
+      <UTMy>4676706.0</UTMy>
+      <URL>http://gps.huescalamagia.es/es/punto/festival-de-la-ribagorza-clasicos-en-la-frontera</URL>
+   </Festival>
+   <Festival>
+      <Comarca>LA RIBAGORZA</Comarca>
+      <Localidad>Graus</Localidad>
+      <Nombre>Festival Nocte (Graus)</Nombre>
+      <Descripcion>El Festival Internacional de Artes Escénicas, que se celebra en Graus durante el mes de julio, muestra la creación escénica en plena calle, y en él se dan cita numerosos grupos de teatro locales, comarcales, así como importantes compañías nacionales e internacionales. </Descripcion>
+      <Latitud>42.19166</Latitud>
+      <Longitud>0.334722</Longitud>
+      <UTMx xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+      <UTMy xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+      <URL>http://gps.huescalamagia.es/es/punto/festival-nocte-graus</URL>
+   </Festival>
+   <Festival>
+      <Comarca>LA RIBAGORZA</Comarca>
+      <Localidad>Graus</Localidad>
+      <Nombre>Ribagorza Pop Festival</Nombre>
+      <Descripcion>El Ribagorza Pop Festival, consolidado como el Festival de la Ñ, afronta su sexta edición con una renovada ilusión y apostando decididamente por la diversidad y la variedad de las músicas que componen el actual panorama nacional. La cita es los días 24 y 25 de junio en Graus.</Descripcion>
+      <Latitud xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+      <Longitud xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+      <UTMx>280053.0</UTMx>
+      <UTMy>4674543.0</UTMy>
+      <URL>http://gps.huescalamagia.es/es/punto/ribagorza-pop-festival</URL>
+   </Festival>
+   <Festival>
+      <Comarca>LA JACETANIA</Comarca>
+      <Localidad>Hecho</Localidad>
+      <Nombre>Festival de Música y Cultura Pirenaicas PIR</Nombre>
+      <Descripcion>El festival de Cultura y Música Pirenaica está centrado en la cultura pirenaica en sus diferentes manifestaciones. La sede de este festival es itinerante entre los Valles de Ansó, Hecho y Aragüés del Puerto, y se celebra durante el mes de julio.</Descripcion>
+      <Latitud xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+      <Longitud xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+      <UTMx>684253.9</UTMx>
+      <UTMy>4734520.0</UTMy>
+      <URL>http://gps.huescalamagia.es/es/punto/festival-de-musica-y-cultura-pirenaicas-pir</URL>
+   </Festival>
+   <Festival>
+      <Comarca>HOYA DE HUESCA</Comarca>
+      <Localidad>Huesca </Localidad>
+      <Nombre>Festival de Cine de Huesca</Nombre>
+      <Descripcion>El Festival de Cine de Huesca, que se celebra cada mes de junio desde hace 37 años, acoge el Certamen Iberoamericano de Cortometrajes, el Internacional, y el Aragonés; el Concurso Europeo de Documentales y el concurso de relatos, así como diferentes exposiciones, organizadas en colaboración con la Diputación de Huesca</Descripcion>
+      <Latitud>42.1368</Latitud>
+      <Longitud>-0.40845</Longitud>
+      <UTMx xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+      <UTMy xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+      <URL>http://gps.huescalamagia.es/es/punto/festival-de-cine-de-huesca</URL>
+   </Festival>
+   <Festival>
+      <Comarca>HOYA DE HUESCA</Comarca>
+      <Localidad>Huesca </Localidad>
+      <Nombre>Festival Periferias (Huesca)</Nombre>
+      <Descripcion>Periferias es un festival transgenérico que integra diversas manifestaciones culturales como música, teatro, cine, artes plásticas, fotografía, infografía y tecnologías aplicadas al arte.</Descripcion>
+      <Latitud xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+      <Longitud xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+      <UTMx>714272.2</UTMx>
+      <UTMy>4668345.0</UTMy>
+      <URL>http://gps.huescalamagia.es/es/punto/festival-periferias-huesca</URL>
+   </Festival>
+   <Festival>
+      <Comarca>LA JACETANIA</Comarca>
+      <Localidad>Jaca </Localidad>
+      <Nombre>Festival Folclórico de los Pirineos (Jaca)</Nombre>
+      <Descripcion>El Festival folclórico de los Pirineos se organiza cada dos años, y desde hace 45 años alternativamente en las localidades de Jaca (Huesca) y Oloron St. Marie (Francia).</Descripcion>
+      <Latitud xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+      <Longitud xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+      <UTMx>701251.0</UTMx>
+      <UTMy>4716248.0</UTMy>
+      <URL>http://gps.huescalamagia.es/es/punto/festival-folclorico-de-los-pirineos-jaca</URL>
+   </Festival>
+   <Festival>
+      <Comarca>LA JACETANIA</Comarca>
+      <Localidad>Jaca </Localidad>
+      <Nombre>Festival Internacional en el Camino de Santiago </Nombre>
+      <Descripcion>El festival, especializado en música antigua, pretende contribuir a la revitalización de esta vía cultural y de todo el patrimonio monumental que salpica el recorrido de la ruta jacobea en la Jacetania y las Cinco Villas. El evento ha celebrado este este año su vigésima edición. </Descripcion>
+      <Latitud>42.57205</Latitud>
+      <Longitud>-0.551812</Longitud>
+      <UTMx xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+      <UTMy xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+      <URL>http://gps.huescalamagia.es/es/punto/festival-internacional-en-el-camino-de-santiago-</URL>
+   </Festival>
+   <Festival>
+      <Comarca>ALTO GÁLLEGO</Comarca>
+      <Localidad>Lanuza </Localidad>
+      <Nombre>Festival Pirineos Sur</Nombre>
+      <Descripcion>Pirineos Sur es un festival especializado en las llamadas músicas del mundo o populares. Un evento que recoge el espíritu de aquellos sectores cercanos a los valores ecologistas, de apertura a otras culturas, de internacionalismo, en el cual siempre se han querido conjugar la modernidad y la tradición, los artistas consagrados con los nuevos valores. En resumen, un festival nada dogmático. El certamen ha celebrado su vigésima edición el pasado mes de julio en Lanuza y Sallent de Gállego.</Descripcion>
+      <Latitud>42.75728</Latitud>
+      <Longitud>-0.314443</Longitud>
+      <UTMx xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+      <UTMy xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+      <URL>http://gps.huescalamagia.es/es/punto/festival-pirineos-sur</URL>
+   </Festival>
+</Festivales>
