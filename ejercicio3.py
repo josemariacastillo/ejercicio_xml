@@ -12,7 +12,12 @@ cad=raw_input("Introduce un festival: ")
 
 festivales=datos.xpath("//Festival")
 
+encontrado=False
+
 for f in festivales:
 	if f.xpath("Nombre/text()")[0].startswith(cad):
-		print f.xpath("Nombre/text()")[0]
-		print f.xpath("URL/text()")[0]
+		print "\nTitutlo: ",f.xpath("Nombre/text()")[0]
+		print "URL: ",f.xpath("URL/text()")[0]
+		encontrado=True
+if encontrado==False:
+	print "No coincide con ninguna inicio de cadena"
