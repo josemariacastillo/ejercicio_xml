@@ -23,5 +23,10 @@ for f in festivales:
 		if encontrado==True:
 			contador=contador+1
 
+if encontrado==True:
+	print "Numero de Festivales por comarca: ",contador	
+else:
+	print "No existe la comarca "
 	
-print contador	
+
+	
