@@ -8,9 +8,10 @@ datos=etree.parse("festivales.xml")
 
 festivales=datos.xpath("//Festival")
 
+print "\nListado de Festivales con su descripción:"
 for f in festivales:
-	print f.xpath("Nombre/text()")[0]
-	print f.xpath("Descripcion/text()")[0]
+	print "\nTitulo Festival:\n",f.xpath("Nombre/text()")[0],"\n"
+	print "Descripción:\n",f.xpath("Descripcion/text()")[0]
 		
 
 
