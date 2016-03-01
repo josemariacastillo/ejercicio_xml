@@ -11,6 +11,11 @@ comarca=raw_input("Introduce una comarca: ").upper()
 
 festivales=datos.xpath("//Festival")
 
+encontrado=False
 for f in festivales:
 	if comarca in f.xpath("Comarca/text()"):
-		print f.xpath("Localidad/text()")[0]
+		print "Localidad: ",f.xpath("Localidad/text()")[0]
+		encontrado=True
+
+if encontrado==False:
+	print "No exite la comarca introducida."
