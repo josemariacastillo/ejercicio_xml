@@ -10,4 +10,4 @@ Ejercicios fichero xml Festivales de huesca.
 
 4) Programa que pida una comarca y muestra a la localidad que pertenece.
 
-5)Programa que pida por teclado la latitud longitud, y muestre la URL de su ubicación del mas cercano.
+5)Programa que pida por teclado la latitud longitud, y muestre la URL de su ubicación.
