@@ -12,9 +12,11 @@ longitud=raw_input("Introduzca una longitud: ")
 
 festivales=datos.xpath("//Festival")
 
-
+encontrado=False
 for f in festivales:
 	if latitud in f.xpath("Latitud/text()") and longitud in f.xpath("Longitud/text()"):
-		print f.xpath("URL/text()")[0]
+		print "URL: ",f.xpath("URL/text()")[0]
+		encontrado=True
 	
-
+if encontrado==False:
+	print "No coincide la latitud o longitud introducida" 
